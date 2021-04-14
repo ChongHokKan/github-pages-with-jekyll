@@ -1,4 +1,4 @@
-theme: minima 
+theme: minima
 title: normal title
 author: Chong Hok Kan
 email: 1155159055@link.cuhk.edu.hk
@@ -11,3 +11,4 @@ github_username:  ChongHokKan # DO NOT include the @ character, or else the buil
 
 show_excerpts: false # set to false to remove excerpts on the homepage
  
+theme: minima
